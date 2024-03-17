@@ -1,6 +1,20 @@
 <?php
 $listViewDefs ['Leads'] = 
 array (
+  'NAME' =>
+  array(
+    'width' => '10%',
+    'label' => 'LBL_LIST_NAME',
+    'link' => true,
+    'orderBy' => 'name',
+    'default' => true,
+    'related_fields' =>
+    array(
+      0 => 'first_name',
+      1 => 'last_name',
+      2 => 'salutation',
+    ),
+  ),
   'FIRST_NAME' => 
   array (
     'type' => 'varchar',
