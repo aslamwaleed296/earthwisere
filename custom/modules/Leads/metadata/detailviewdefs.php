@@ -58,7 +58,7 @@ array(
           array(
             'customCode' => '<input type="button" class="button" onClick="setupClient();" value="{$APP.LBL_CALL_CUSTOMER}">',
           ),
-          'CALL' =>
+          'SMS' =>
           array(
             'customCode' => '<input type="button" class="button" onClick="sendMessage();" value="{$APP.LBL_SEND_SMS}">',
           ),

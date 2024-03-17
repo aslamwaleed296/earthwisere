@@ -1,5 +1,5 @@
-<?php
-// WARNING: The contents of this file are auto-generated
+<?php 
+ //WARNING: The contents of this file are auto-generated
 
 
 /**
@@ -55,3 +55,4 @@ $app_list_strings['sales_stage_dom']['Negotiation/Review'] = 'Negotiation/Review
 $app_list_strings['sales_stage_dom']['Closed Won'] = 'Closed Won';
 $app_list_strings['sales_stage_dom']['Closed Lost'] = 'Closed Lost';
 
+?>
